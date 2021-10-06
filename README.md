@@ -125,7 +125,7 @@ The two files are placed in the section below, just go to whatever program you p
 
 1. First you will need to go into the program you will be using to run these files.
 2. Make a new file, IntStack.java
-3. Copy and paste the code below into that file.
+3. Copy and paste the code below into that file or download the IntStack.java file from github.
 
 ```
 public class IntStack {
@@ -168,7 +168,7 @@ public class IntStack {
 ```
 
 4. Now make another file, MolecularMass.java
-5. Copy and paste the code below into that file.
+5. Copy and paste the code below into that file or download the file MolecularMass.java from github.
 
 ```
 import java.util.Scanner;
