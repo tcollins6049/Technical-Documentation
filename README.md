@@ -5,6 +5,7 @@ By Tyler Collins
 
 ### Introduction
 This document describes how to use the molecular mass calculator. This was written in the Java programming language.
+Molecular mass is the mass of a given molecule and differrent molecules in the same compound can have different masses. 
 This program works by finding the molecular mass of whatever the user types in. For example, if the user typed in
 H2O then the program would print 18 because H = 1 and O = 16.
 
